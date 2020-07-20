@@ -1,0 +1,19 @@
+{
+  "name": "db-consolidation-script",
+  "version": "1.0.0",
+  "description": "Consolidates data from prod db with those from dev db",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HKN-UCSD/db-consolidation-script.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HKN-UCSD/db-consolidation-script/issues"
+  },
+  "homepage": "https://github.com/HKN-UCSD/db-consolidation-script#readme"
+}
